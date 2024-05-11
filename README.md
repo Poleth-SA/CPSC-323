@@ -1,2 +1,2 @@
-# CS-323
-Coding for homework for CS 323
+# CPSC 323 Coding Assigments
+The coding portions for my CPSC 323 class assigments
