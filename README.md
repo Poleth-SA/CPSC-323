@@ -1,4 +1,12 @@
-# CPSC 323 Coding Assigments
-The coding portions for my CPSC 323 class assigments
+# CPSC 323 Class Assignments
 
-The description given by the professor is put into the file and the coding I did for it is provided. Languages used for this class were a mixed between Python and C++ depending on which was easier for my partner and I at the moment. Majority of this Assigments were made in Python and a few on C++
+This repository contains the coding portions for my CPSC 323 class assignments.
+
+## Description
+The description provided by the professor is included in each assignment file, along with the code that I implemented. The assignments were completed using a mix of Python and C++, depending on which language was more convenient for my partner and me at the time. The majority of the assignments were done in Python, with a few in C++.
+
+Feel free to explore the repository and check out the code!
+
+## The Coding Assigments 
+
+[Click here to view the assignments PDF](./Assignments-for-323.pdf)
